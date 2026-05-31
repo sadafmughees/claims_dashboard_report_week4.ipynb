@@ -1,0 +1,501 @@
+Claim_ID,Claim_Date,Policy_Holder_City,Claim_Type,Claim_Amount_GBP,Status,Processing_Time_Days
+UKC-1000,2025-03-10,Manchester,Property,5930.83,Open,32
+UKC-1001,2025-01-07,Liverpool,Health,14285.36,Closed,39
+UKC-1002,2025-01-29,Manchester,Travel,11113.91,Open,29
+UKC-1003,2025-01-04,Leeds,Health,9180.55,Open,33
+UKC-1004,2025-02-07,Manchester,Health,2762.27,Open,54
+UKC-1005,2025-01-07,Liverpool,Health,2761.92,Closed,60
+UKC-1006,2025-02-02,Liverpool,Motor,1342.21,Open,11
+UKC-1007,2025-01-19,Manchester,Liability,13059.55,Pending,18
+UKC-1008,2025-02-02,Manchester,Travel,9216.17,Pending,45
+UKC-1009,2025-02-17,Birmingham,Travel,10767.05,Under Investigation,23
+UKC-1010,2025-03-01,Glasgow,Motor,798.48,Pending,15
+UKC-1011,2025-02-07,Birmingham,Liability,14563.69,Under Investigation,56
+UKC-1012,2025-01-18,Liverpool,Liability,12570.42,Closed,18
+UKC-1013,2025-04-03,London,Travel,3578.92,Under Investigation,39
+UKC-1014,2025-01-07,Bristol,Property,3136.46,Under Investigation,31
+UKC-1015,2025-03-26,Edinburgh,Health,3159.37,Closed,57
+UKC-1016,2025-04-04,Liverpool,Travel,4911.51,Under Investigation,10
+UKC-1017,2025-04-05,Liverpool,Property,8108.97,Closed,59
+UKC-1018,2025-01-06,Leeds,Motor,6763.2,Open,28
+UKC-1019,2025-02-08,Liverpool,Health,4722.82,Under Investigation,9
+UKC-1020,2025-02-28,Edinburgh,Travel,9371.87,Open,14
+UKC-1021,2025-03-13,Birmingham,Property,2522.66,Pending,59
+UKC-1022,2025-03-15,Liverpool,Liability,4736.1,Pending,13
+UKC-1023,2025-03-19,Leeds,Property,5812.25,Open,26
+UKC-1024,2025-01-06,Edinburgh,Property,7113.01,Open,57
+UKC-1025,2025-01-04,Leeds,Motor,11885.05,Pending,29
+UKC-1026,2025-03-05,Manchester,Motor,3395.27,Open,39
+UKC-1027,2025-01-14,Glasgow,Travel,7956.4,Closed,49
+UKC-1028,2025-03-29,Leeds,Health,9090.01,Pending,23
+UKC-1029,2025-03-25,Manchester,Travel,1173.53,Pending,58
+UKC-1030,2025-02-15,Edinburgh,Property,9309.4,Closed,55
+UKC-1031,2025-01-31,Glasgow,Motor,2972.6,Under Investigation,21
+UKC-1032,2025-02-04,Bristol,Motor,1443.25,Closed,46
+UKC-1033,2025-03-07,London,Health,14258.84,Pending,31
+UKC-1034,2025-01-01,Liverpool,Health,14501.66,Open,15
+UKC-1035,2025-03-22,Bristol,Liability,12221.76,Under Investigation,42
+UKC-1036,2025-01-21,Leeds,Liability,4916.9,Open,13
+UKC-1037,2025-03-29,London,Travel,1916.25,Closed,27
+UKC-1038,2025-02-16,Manchester,Property,10421.38,Closed,52
+UKC-1039,2025-03-06,Birmingham,Property,6882.21,Closed,52
+UKC-1040,2025-02-11,Leeds,Motor,2269.55,Pending,7
+UKC-1041,2025-01-13,Edinburgh,Motor,7680.07,Under Investigation,10
+UKC-1042,2025-03-19,Glasgow,Travel,998.63,Closed,14
+UKC-1043,2025-01-20,Birmingham,Health,13685.15,Open,25
+UKC-1044,2025-01-19,Liverpool,Health,4252.31,Closed,43
+UKC-1045,2025-01-16,Edinburgh,Health,10106.57,Under Investigation,56
+UKC-1046,2025-03-09,Birmingham,Motor,5019.81,Open,50
+UKC-1047,2025-02-15,Bristol,Travel,8040.99,Closed,19
+UKC-1048,2025-01-02,Leeds,Travel,8427.3,Under Investigation,50
+UKC-1049,2025-01-31,London,Motor,3180.39,Closed,40
+UKC-1050,2025-03-19,Bristol,Health,14558.98,Closed,42
+UKC-1051,2025-01-05,Birmingham,Health,11739.43,Open,59
+UKC-1052,2025-03-12,Manchester,Travel,14122.73,Under Investigation,18
+UKC-1053,2025-01-30,Glasgow,Motor,13475.0,Open,37
+UKC-1054,2025-02-08,Birmingham,Liability,9169.55,Pending,49
+UKC-1055,2025-04-01,Bristol,Motor,13867.18,Under Investigation,6
+UKC-1056,2025-01-13,London,Motor,1783.14,Open,52
+UKC-1057,2025-01-06,Birmingham,Property,3341.75,Under Investigation,57
+UKC-1058,2025-03-06,Birmingham,Liability,1155.8,Under Investigation,60
+UKC-1059,2025-02-12,Liverpool,Property,5217.29,Closed,58
+UKC-1060,2025-02-03,Bristol,Travel,6135.82,Under Investigation,20
+UKC-1061,2025-01-01,Glasgow,Health,4434.56,Open,52
+UKC-1062,2025-03-10,Edinburgh,Liability,12516.69,Under Investigation,20
+UKC-1063,2025-01-07,Edinburgh,Property,5672.92,Under Investigation,49
+UKC-1064,2025-02-24,Edinburgh,Motor,4573.55,Open,12
+UKC-1065,2025-03-02,Leeds,Property,8369.09,Pending,21
+UKC-1066,2025-01-25,Leeds,Liability,2543.4,Open,47
+UKC-1067,2025-03-20,London,Property,12131.86,Open,13
+UKC-1068,2025-02-06,Edinburgh,Motor,1580.98,Pending,56
+UKC-1069,2025-01-31,Birmingham,Property,14809.86,Closed,5
+UKC-1070,2025-03-20,Leeds,Health,11697.55,Open,59
+UKC-1071,2025-04-06,Leeds,Liability,3381.38,Open,22
+UKC-1072,2025-02-01,Bristol,Property,580.07,Under Investigation,14
+UKC-1073,2025-01-16,Manchester,Motor,12324.19,Closed,26
+UKC-1074,2025-03-02,Manchester,Travel,10749.43,Pending,58
+UKC-1075,2025-02-08,London,Travel,11070.6,Under Investigation,40
+UKC-1076,2025-03-12,London,Property,11683.42,Pending,25
+UKC-1077,2025-01-18,London,Health,1573.65,Open,17
+UKC-1078,2025-02-11,Bristol,Liability,5697.75,Under Investigation,22
+UKC-1079,2025-02-19,Edinburgh,Property,2180.1,Under Investigation,39
+UKC-1080,2025-02-23,Manchester,Property,13015.0,Open,20
+UKC-1081,2025-04-06,London,Property,9537.82,Under Investigation,51
+UKC-1082,2025-02-16,London,Motor,5298.02,Open,14
+UKC-1083,2025-03-14,Edinburgh,Health,1421.6,Closed,21
+UKC-1084,2025-04-10,Manchester,Motor,5009.24,Open,34
+UKC-1085,2025-02-05,Bristol,Motor,5215.16,Pending,55
+UKC-1086,2025-03-16,Birmingham,Travel,11079.29,Under Investigation,1
+UKC-1087,2025-04-04,Glasgow,Health,9744.58,Pending,52
+UKC-1088,2025-02-23,London,Liability,13364.58,Closed,12
+UKC-1089,2025-01-11,Leeds,Travel,7347.12,Under Investigation,13
+UKC-1090,2025-01-23,Manchester,Property,2234.12,Pending,53
+UKC-1091,2025-02-15,Birmingham,Motor,10842.05,Closed,36
+UKC-1092,2025-01-17,Manchester,Motor,11531.38,Closed,4
+UKC-1093,2025-03-12,Bristol,Liability,8638.52,Open,27
+UKC-1094,2025-02-07,London,Health,11679.02,Open,16
+UKC-1095,2025-01-12,Leeds,Liability,7660.04,Under Investigation,59
+UKC-1096,2025-01-06,Edinburgh,Health,8079.63,Under Investigation,44
+UKC-1097,2025-01-03,Leeds,Property,6699.34,Under Investigation,48
+UKC-1098,2025-02-07,Bristol,Motor,868.58,Open,18
+UKC-1099,2025-02-01,Manchester,Travel,2064.43,Under Investigation,40
+UKC-1100,2025-01-10,Edinburgh,Property,955.72,Pending,15
+UKC-1101,2025-04-11,Leeds,Liability,9727.95,Under Investigation,39
+UKC-1102,2025-03-26,Leeds,Motor,5058.16,Closed,44
+UKC-1103,2025-02-21,Bristol,Liability,7874.28,Closed,34
+UKC-1104,2025-02-12,Birmingham,Liability,13659.71,Pending,38
+UKC-1105,2025-01-04,Liverpool,Travel,4114.74,Under Investigation,20
+UKC-1106,2025-04-07,Leeds,Health,6450.55,Under Investigation,35
+UKC-1107,2025-03-29,Birmingham,Health,11455.49,Open,20
+UKC-1108,2025-04-11,Bristol,Travel,3817.57,Under Investigation,1
+UKC-1109,2025-01-24,Liverpool,Health,1616.21,Closed,17
+UKC-1110,2025-01-10,Birmingham,Health,4701.4,Open,13
+UKC-1111,2025-03-05,Birmingham,Liability,2837.71,Pending,14
+UKC-1112,2025-02-27,Edinburgh,Travel,13980.62,Open,35
+UKC-1113,2025-01-10,Edinburgh,Liability,12217.75,Closed,27
+UKC-1114,2025-04-03,Bristol,Liability,9684.35,Open,29
+UKC-1115,2025-03-24,London,Liability,13136.18,Under Investigation,3
+UKC-1116,2025-01-08,Birmingham,Health,12153.25,Open,56
+UKC-1117,2025-03-20,Leeds,Liability,3205.27,Closed,45
+UKC-1118,2025-03-29,London,Property,13442.11,Pending,16
+UKC-1119,2025-04-05,Manchester,Travel,8320.46,Pending,42
+UKC-1120,2025-01-11,Liverpool,Property,12207.88,Pending,26
+UKC-1121,2025-03-17,Edinburgh,Property,13493.32,Pending,40
+UKC-1122,2025-03-17,Liverpool,Health,5111.05,Under Investigation,12
+UKC-1123,2025-03-19,Edinburgh,Liability,2095.75,Pending,9
+UKC-1124,2025-01-25,Manchester,Travel,3805.06,Open,50
+UKC-1125,2025-01-13,London,Health,6693.06,Pending,43
+UKC-1126,2025-02-27,Liverpool,Property,12361.21,Open,36
+UKC-1127,2025-02-17,Bristol,Travel,12980.59,Open,35
+UKC-1128,2025-02-06,Edinburgh,Health,600.81,Under Investigation,20
+UKC-1129,2025-01-11,Glasgow,Liability,7905.84,Closed,47
+UKC-1130,2025-02-25,Birmingham,Travel,6552.46,Under Investigation,48
+UKC-1131,2025-03-04,Liverpool,Health,3720.56,Pending,27
+UKC-1132,2025-04-10,Edinburgh,Motor,2238.05,Open,39
+UKC-1133,2025-03-20,London,Property,5395.42,Closed,2
+UKC-1134,2025-01-30,Liverpool,Property,14172.19,Open,25
+UKC-1135,2025-01-25,Edinburgh,Health,5186.44,Under Investigation,15
+UKC-1136,2025-03-22,Glasgow,Property,8022.46,Pending,2
+UKC-1137,2025-02-18,Glasgow,Travel,10693.77,Under Investigation,34
+UKC-1138,2025-01-05,Leeds,Liability,5772.63,Closed,44
+UKC-1139,2025-02-18,Birmingham,Property,14590.84,Under Investigation,26
+UKC-1140,2025-02-11,Manchester,Property,14455.49,Open,9
+UKC-1141,2025-02-03,Liverpool,Health,4150.84,Open,15
+UKC-1142,2025-02-18,Edinburgh,Liability,7710.1,Pending,7
+UKC-1143,2025-03-19,Edinburgh,Travel,4862.74,Pending,12
+UKC-1144,2025-04-11,Liverpool,Motor,4630.19,Closed,48
+UKC-1145,2025-02-14,Leeds,Travel,1034.86,Under Investigation,52
+UKC-1146,2025-01-02,Leeds,Health,9338.68,Pending,38
+UKC-1147,2025-02-28,Glasgow,Liability,7788.85,Open,3
+UKC-1148,2025-02-18,Manchester,Liability,1246.44,Open,25
+UKC-1149,2025-02-24,Leeds,Health,4540.37,Closed,30
+UKC-1150,2025-03-24,Edinburgh,Property,13669.86,Under Investigation,31
+UKC-1151,2025-04-02,Liverpool,Travel,3973.65,Under Investigation,20
+UKC-1152,2025-02-04,London,Liability,2600.98,Under Investigation,10
+UKC-1153,2025-01-29,Glasgow,Health,7597.07,Under Investigation,22
+UKC-1154,2025-03-10,Edinburgh,Motor,14791.93,Open,33
+UKC-1155,2025-02-12,London,Motor,4009.8,Under Investigation,41
+UKC-1156,2025-01-04,Edinburgh,Motor,10245.97,Closed,60
+UKC-1157,2025-02-06,Leeds,Property,11543.48,Open,24
+UKC-1158,2025-01-21,Liverpool,Health,3945.74,Under Investigation,23
+UKC-1159,2025-01-31,Birmingham,Health,11059.14,Under Investigation,2
+UKC-1160,2025-03-31,Birmingham,Property,5832.86,Closed,5
+UKC-1161,2025-02-13,Manchester,Health,9668.43,Closed,4
+UKC-1162,2025-02-04,London,Travel,9686.18,Under Investigation,13
+UKC-1163,2025-02-12,Bristol,Travel,8268.73,Closed,39
+UKC-1164,2025-02-18,Edinburgh,Liability,1809.2,Under Investigation,44
+UKC-1165,2025-02-05,Bristol,Property,12611.89,Closed,48
+UKC-1166,2025-01-25,Edinburgh,Liability,5151.31,Pending,11
+UKC-1167,2025-03-31,Glasgow,Travel,3204.52,Under Investigation,36
+UKC-1168,2025-03-11,Edinburgh,Health,1091.24,Closed,39
+UKC-1169,2025-03-15,Liverpool,Liability,9067.95,Open,52
+UKC-1170,2025-01-20,Bristol,Liability,10324.68,Under Investigation,52
+UKC-1171,2025-01-30,Glasgow,Property,740.52,Closed,35
+UKC-1172,2025-01-14,Leeds,Travel,7925.35,Closed,4
+UKC-1173,2025-04-07,Manchester,Liability,3784.19,Open,31
+UKC-1174,2025-03-20,Bristol,Property,9855.01,Pending,36
+UKC-1175,2025-01-27,Edinburgh,Travel,3028.31,Open,47
+UKC-1176,2025-01-07,Birmingham,Liability,10518.6,Under Investigation,42
+UKC-1177,2025-03-16,Birmingham,Health,6107.66,Open,52
+UKC-1178,2025-02-23,Bristol,Property,14082.58,Pending,10
+UKC-1179,2025-01-18,Liverpool,Motor,2494.05,Under Investigation,5
+UKC-1180,2025-04-05,Liverpool,Travel,5445.46,Closed,46
+UKC-1181,2025-03-30,Edinburgh,Travel,2145.37,Closed,41
+UKC-1182,2025-02-26,Manchester,Property,13908.06,Pending,35
+UKC-1183,2025-02-23,Bristol,Health,13221.42,Closed,21
+UKC-1184,2025-01-01,Leeds,Property,4240.15,Pending,20
+UKC-1185,2025-02-09,Glasgow,Health,10069.77,Under Investigation,4
+UKC-1186,2025-01-11,London,Travel,12349.72,Closed,39
+UKC-1187,2025-02-04,Leeds,Travel,8550.41,Open,55
+UKC-1188,2025-01-11,Bristol,Liability,8179.93,Open,5
+UKC-1189,2025-03-18,Liverpool,Travel,4006.86,Closed,45
+UKC-1190,2025-03-07,Birmingham,Property,1849.99,Pending,14
+UKC-1191,2025-02-09,Edinburgh,Property,13509.63,Pending,9
+UKC-1192,2025-03-29,Liverpool,Liability,13556.06,Closed,34
+UKC-1193,2025-02-21,Liverpool,Liability,9679.97,Closed,28
+UKC-1194,2025-01-01,Leeds,Liability,5415.93,Closed,60
+UKC-1195,2025-01-10,Manchester,Health,5563.54,Open,53
+UKC-1196,2025-02-17,Leeds,Property,11026.36,Under Investigation,24
+UKC-1197,2025-03-29,Leeds,Liability,13508.1,Closed,50
+UKC-1198,2025-01-21,Edinburgh,Liability,13362.75,Closed,11
+UKC-1199,2025-03-14,Leeds,Travel,11808.2,Open,5
+UKC-1200,2025-03-23,Manchester,Health,9809.46,Closed,12
+UKC-1201,2025-04-08,Birmingham,Health,1720.03,Closed,7
+UKC-1202,2025-01-23,Leeds,Motor,2843.62,Under Investigation,16
+UKC-1203,2025-01-02,Liverpool,Property,13529.04,Open,9
+UKC-1204,2025-01-05,Liverpool,Property,9293.22,Pending,32
+UKC-1205,2025-01-18,Birmingham,Motor,633.36,Closed,55
+UKC-1206,2025-01-25,London,Property,1971.34,Pending,48
+UKC-1207,2025-03-15,Bristol,Property,10120.78,Closed,26
+UKC-1208,2025-03-02,Edinburgh,Property,573.39,Closed,30
+UKC-1209,2025-03-13,Birmingham,Travel,2831.72,Closed,47
+UKC-1210,2025-01-04,London,Motor,8456.64,Pending,40
+UKC-1211,2025-03-04,Birmingham,Property,10532.48,Closed,34
+UKC-1212,2025-03-09,London,Motor,9953.44,Under Investigation,45
+UKC-1213,2025-01-25,Edinburgh,Motor,3751.9,Closed,56
+UKC-1214,2025-02-27,Bristol,Motor,10826.6,Under Investigation,17
+UKC-1215,2025-03-22,Liverpool,Health,3940.11,Closed,34
+UKC-1216,2025-03-10,Birmingham,Liability,5218.3,Pending,46
+UKC-1217,2025-02-14,Leeds,Motor,11324.13,Closed,21
+UKC-1218,2025-04-04,Birmingham,Liability,9919.68,Open,58
+UKC-1219,2025-01-04,Manchester,Travel,12813.74,Under Investigation,59
+UKC-1220,2025-02-20,Manchester,Travel,10035.39,Pending,26
+UKC-1221,2025-03-18,Bristol,Travel,8740.47,Open,27
+UKC-1222,2025-03-10,Manchester,Motor,1858.28,Pending,13
+UKC-1223,2025-03-18,Edinburgh,Liability,5831.88,Open,1
+UKC-1224,2025-01-07,Glasgow,Motor,4345.43,Pending,54
+UKC-1225,2025-03-05,London,Liability,4037.85,Pending,13
+UKC-1226,2025-04-09,Bristol,Travel,14608.65,Pending,43
+UKC-1227,2025-01-30,Bristol,Liability,6199.92,Closed,43
+UKC-1228,2025-01-09,Leeds,Liability,13434.68,Closed,21
+UKC-1229,2025-03-15,Liverpool,Travel,9651.51,Pending,35
+UKC-1230,2025-01-31,Manchester,Health,12024.76,Closed,46
+UKC-1231,2025-02-02,Birmingham,Motor,7788.24,Closed,26
+UKC-1232,2025-03-14,London,Property,8865.11,Closed,42
+UKC-1233,2025-03-20,Bristol,Health,7641.51,Closed,28
+UKC-1234,2025-01-30,Glasgow,Property,3331.02,Pending,52
+UKC-1235,2025-03-17,Birmingham,Motor,10975.56,Open,6
+UKC-1236,2025-01-01,Birmingham,Motor,4571.2,Pending,55
+UKC-1237,2025-01-23,Edinburgh,Motor,852.58,Closed,5
+UKC-1238,2025-01-03,Leeds,Motor,9859.35,Under Investigation,22
+UKC-1239,2025-03-12,Glasgow,Liability,3068.1,Pending,20
+UKC-1240,2025-01-24,Bristol,Liability,14136.65,Closed,38
+UKC-1241,2025-04-11,Leeds,Health,14331.96,Closed,37
+UKC-1242,2025-01-13,Birmingham,Property,13765.53,Under Investigation,20
+UKC-1243,2025-04-08,Manchester,Travel,5867.3,Under Investigation,46
+UKC-1244,2025-03-28,Manchester,Property,724.12,Closed,1
+UKC-1245,2025-03-16,Leeds,Health,13960.62,Pending,60
+UKC-1246,2025-02-19,Manchester,Property,6708.67,Pending,8
+UKC-1247,2025-03-19,Manchester,Health,14516.49,Closed,35
+UKC-1248,2025-02-06,London,Property,14472.49,Open,20
+UKC-1249,2025-02-13,Edinburgh,Motor,12868.64,Under Investigation,37
+UKC-1250,2025-04-11,Manchester,Motor,4769.51,Under Investigation,1
+UKC-1251,2025-02-04,Glasgow,Health,6083.92,Pending,52
+UKC-1252,2025-02-09,Glasgow,Motor,12841.48,Open,27
+UKC-1253,2025-01-10,Liverpool,Property,5095.37,Under Investigation,59
+UKC-1254,2025-03-04,Edinburgh,Liability,2957.64,Under Investigation,49
+UKC-1255,2025-03-08,Liverpool,Health,8573.62,Under Investigation,21
+UKC-1256,2025-01-16,Edinburgh,Travel,14074.24,Pending,17
+UKC-1257,2025-04-09,Leeds,Property,10592.43,Closed,13
+UKC-1258,2025-02-16,Birmingham,Liability,8765.89,Closed,7
+UKC-1259,2025-01-09,Leeds,Property,1909.06,Pending,4
+UKC-1260,2025-01-18,Edinburgh,Motor,9417.6,Pending,9
+UKC-1261,2025-02-28,Glasgow,Motor,14855.78,Open,3
+UKC-1262,2025-03-09,Edinburgh,Health,2531.22,Under Investigation,45
+UKC-1263,2025-03-28,Manchester,Motor,8015.78,Open,12
+UKC-1264,2025-03-09,Manchester,Travel,13221.91,Under Investigation,20
+UKC-1265,2025-03-29,Edinburgh,Travel,11241.14,Under Investigation,56
+UKC-1266,2025-03-22,Edinburgh,Property,10606.73,Under Investigation,23
+UKC-1267,2025-03-29,Glasgow,Liability,10686.02,Under Investigation,46
+UKC-1268,2025-02-12,Leeds,Liability,5712.62,Open,48
+UKC-1269,2025-02-04,London,Liability,4757.08,Pending,31
+UKC-1270,2025-04-06,Glasgow,Property,12235.74,Pending,6
+UKC-1271,2025-02-27,Edinburgh,Travel,12246.64,Open,55
+UKC-1272,2025-01-22,Manchester,Property,13072.55,Under Investigation,47
+UKC-1273,2025-04-11,Bristol,Travel,13741.99,Open,4
+UKC-1274,2025-03-19,Manchester,Travel,7914.46,Open,39
+UKC-1275,2025-01-28,Birmingham,Liability,7771.99,Under Investigation,55
+UKC-1276,2025-03-02,Glasgow,Travel,12075.28,Open,48
+UKC-1277,2025-03-01,Bristol,Health,9924.48,Open,39
+UKC-1278,2025-02-21,Leeds,Liability,10678.52,Closed,2
+UKC-1279,2025-02-19,Edinburgh,Property,12038.99,Pending,2
+UKC-1280,2025-01-02,Edinburgh,Travel,13405.08,Closed,54
+UKC-1281,2025-04-09,Manchester,Property,5400.93,Pending,49
+UKC-1282,2025-01-30,London,Travel,5945.95,Under Investigation,11
+UKC-1283,2025-02-19,Glasgow,Liability,1862.74,Under Investigation,5
+UKC-1284,2025-04-04,Edinburgh,Motor,8885.06,Open,32
+UKC-1285,2025-01-31,Birmingham,Motor,1021.16,Closed,25
+UKC-1286,2025-02-28,Leeds,Health,7251.17,Under Investigation,50
+UKC-1287,2025-02-25,Birmingham,Motor,8368.35,Closed,40
+UKC-1288,2025-02-12,London,Property,4654.85,Open,47
+UKC-1289,2025-02-11,Leeds,Property,9067.08,Open,60
+UKC-1290,2025-02-19,Bristol,Motor,942.25,Closed,44
+UKC-1291,2025-01-23,London,Health,1041.55,Open,41
+UKC-1292,2025-02-10,Edinburgh,Liability,12427.71,Under Investigation,12
+UKC-1293,2025-02-24,Manchester,Property,5722.76,Under Investigation,19
+UKC-1294,2025-04-04,Birmingham,Motor,2342.38,Under Investigation,58
+UKC-1295,2025-01-13,Glasgow,Liability,8072.53,Open,3
+UKC-1296,2025-03-20,Birmingham,Property,11664.91,Under Investigation,58
+UKC-1297,2025-02-08,Leeds,Property,3629.4,Under Investigation,6
+UKC-1298,2025-04-04,London,Motor,9531.91,Closed,5
+UKC-1299,2025-01-03,Leeds,Travel,1737.54,Under Investigation,59
+UKC-1300,2025-03-12,Birmingham,Property,1249.38,Under Investigation,33
+UKC-1301,2025-02-14,Glasgow,Travel,8204.64,Under Investigation,45
+UKC-1302,2025-02-16,Glasgow,Travel,8339.21,Open,14
+UKC-1303,2025-01-14,Liverpool,Property,9742.73,Closed,24
+UKC-1304,2025-01-07,Bristol,Property,11028.32,Closed,36
+UKC-1305,2025-01-23,Liverpool,Motor,14649.86,Under Investigation,29
+UKC-1306,2025-04-01,Glasgow,Motor,7986.36,Pending,52
+UKC-1307,2025-02-01,London,Motor,5182.87,Under Investigation,43
+UKC-1308,2025-02-25,Bristol,Travel,12030.2,Pending,55
+UKC-1309,2025-01-10,Bristol,Travel,4427.07,Open,46
+UKC-1310,2025-02-21,Manchester,Motor,6865.09,Open,54
+UKC-1311,2025-02-17,Edinburgh,Property,1637.62,Closed,60
+UKC-1312,2025-01-02,London,Property,867.59,Pending,46
+UKC-1313,2025-02-28,Bristol,Liability,14458.4,Closed,56
+UKC-1314,2025-03-28,Bristol,Travel,12621.71,Under Investigation,7
+UKC-1315,2025-03-22,London,Travel,10591.63,Closed,21
+UKC-1316,2025-02-20,Edinburgh,Health,6429.82,Pending,31
+UKC-1317,2025-04-03,Bristol,Property,3012.77,Pending,2
+UKC-1318,2025-03-07,London,Motor,2768.34,Pending,24
+UKC-1319,2025-01-22,Edinburgh,Property,4128.52,Closed,47
+UKC-1320,2025-03-10,Birmingham,Liability,8463.79,Open,10
+UKC-1321,2025-02-26,London,Property,10861.64,Under Investigation,25
+UKC-1322,2025-04-11,Glasgow,Motor,10072.86,Closed,4
+UKC-1323,2025-02-05,Leeds,Liability,4559.04,Under Investigation,33
+UKC-1324,2025-03-13,Leeds,Motor,14345.55,Open,49
+UKC-1325,2025-01-29,Glasgow,Liability,11199.51,Closed,39
+UKC-1326,2025-01-16,Liverpool,Property,8538.13,Closed,31
+UKC-1327,2025-04-10,Birmingham,Travel,9369.95,Pending,9
+UKC-1328,2025-02-28,London,Liability,6584.2,Pending,13
+UKC-1329,2025-04-06,London,Travel,4092.1,Open,5
+UKC-1330,2025-02-17,Bristol,Liability,5661.6,Open,11
+UKC-1331,2025-04-07,Birmingham,Travel,11488.77,Closed,50
+UKC-1332,2025-03-05,Manchester,Motor,708.71,Closed,59
+UKC-1333,2025-03-02,Manchester,Health,2183.05,Pending,32
+UKC-1334,2025-02-04,Leeds,Motor,1167.04,Open,34
+UKC-1335,2025-04-05,Bristol,Motor,1090.57,Under Investigation,47
+UKC-1336,2025-03-27,Birmingham,Travel,12904.18,Under Investigation,2
+UKC-1337,2025-01-04,Glasgow,Liability,10703.04,Open,4
+UKC-1338,2025-03-27,Bristol,Health,7375.52,Pending,43
+UKC-1339,2025-02-01,Edinburgh,Liability,1918.6,Under Investigation,56
+UKC-1340,2025-02-05,Glasgow,Property,7628.43,Closed,11
+UKC-1341,2025-02-05,London,Health,7365.34,Closed,28
+UKC-1342,2025-02-20,Leeds,Travel,3011.43,Open,38
+UKC-1343,2025-02-07,Edinburgh,Motor,6790.85,Closed,10
+UKC-1344,2025-03-19,London,Travel,6278.32,Open,31
+UKC-1345,2025-02-12,Glasgow,Motor,9429.83,Pending,30
+UKC-1346,2025-03-02,Birmingham,Liability,9708.86,Pending,25
+UKC-1347,2025-02-01,Edinburgh,Liability,1156.91,Closed,18
+UKC-1348,2025-04-06,Bristol,Property,5931.88,Open,2
+UKC-1349,2025-01-17,London,Health,9574.97,Under Investigation,21
+UKC-1350,2025-03-21,Bristol,Property,7795.48,Pending,33
+UKC-1351,2025-03-24,Birmingham,Property,12919.1,Closed,59
+UKC-1352,2025-03-29,Bristol,Travel,10051.06,Pending,35
+UKC-1353,2025-04-08,Liverpool,Liability,2862.55,Pending,8
+UKC-1354,2025-03-16,Birmingham,Travel,1523.25,Pending,29
+UKC-1355,2025-03-14,Edinburgh,Health,9815.08,Closed,22
+UKC-1356,2025-02-09,Bristol,Liability,884.41,Open,14
+UKC-1357,2025-03-04,Glasgow,Health,8993.75,Closed,10
+UKC-1358,2025-01-20,Leeds,Health,14133.34,Closed,50
+UKC-1359,2025-01-11,Edinburgh,Liability,8844.38,Open,43
+UKC-1360,2025-01-25,Bristol,Motor,6128.46,Under Investigation,7
+UKC-1361,2025-01-22,Liverpool,Health,9827.68,Pending,55
+UKC-1362,2025-01-04,London,Property,7144.67,Open,32
+UKC-1363,2025-02-07,Leeds,Liability,8411.44,Open,12
+UKC-1364,2025-01-21,Liverpool,Travel,14151.24,Closed,43
+UKC-1365,2025-01-06,London,Property,6098.49,Open,22
+UKC-1366,2025-03-01,Manchester,Liability,14437.26,Closed,32
+UKC-1367,2025-03-16,London,Travel,13627.58,Pending,14
+UKC-1368,2025-03-12,Bristol,Liability,3338.97,Closed,28
+UKC-1369,2025-02-12,London,Motor,1505.74,Closed,44
+UKC-1370,2025-03-16,Liverpool,Health,1961.28,Pending,31
+UKC-1371,2025-03-28,Manchester,Property,764.22,Pending,48
+UKC-1372,2025-01-07,Glasgow,Motor,1869.42,Closed,31
+UKC-1373,2025-01-31,Bristol,Liability,10403.6,Open,25
+UKC-1374,2025-04-04,Edinburgh,Travel,1532.24,Closed,33
+UKC-1375,2025-01-02,Glasgow,Property,5125.15,Pending,31
+UKC-1376,2025-03-28,Leeds,Motor,12750.69,Open,17
+UKC-1377,2025-04-07,Liverpool,Health,837.44,Pending,37
+UKC-1378,2025-02-19,Glasgow,Liability,12309.79,Closed,60
+UKC-1379,2025-01-20,Birmingham,Liability,4586.89,Pending,15
+UKC-1380,2025-03-07,Manchester,Liability,2213.39,Closed,56
+UKC-1381,2025-01-19,Liverpool,Liability,10602.69,Under Investigation,39
+UKC-1382,2025-03-01,Manchester,Health,9619.67,Under Investigation,7
+UKC-1383,2025-02-10,Manchester,Health,13223.34,Open,55
+UKC-1384,2025-03-25,Edinburgh,Motor,11158.53,Open,37
+UKC-1385,2025-02-15,Birmingham,Liability,12150.47,Closed,5
+UKC-1386,2025-04-01,Bristol,Property,4589.5,Closed,4
+UKC-1387,2025-02-02,Glasgow,Health,3072.87,Under Investigation,51
+UKC-1388,2025-04-11,Glasgow,Health,11383.91,Pending,17
+UKC-1389,2025-03-11,Birmingham,Motor,12199.1,Closed,45
+UKC-1390,2025-03-05,London,Motor,14862.32,Closed,14
+UKC-1391,2025-02-08,Leeds,Motor,6482.96,Closed,3
+UKC-1392,2025-01-21,Glasgow,Property,5894.26,Under Investigation,15
+UKC-1393,2025-02-04,Leeds,Travel,11757.99,Pending,19
+UKC-1394,2025-02-08,Manchester,Health,5441.65,Closed,15
+UKC-1395,2025-02-06,Bristol,Property,13995.98,Closed,6
+UKC-1396,2025-01-29,Liverpool,Motor,12946.98,Closed,29
+UKC-1397,2025-01-02,Birmingham,Motor,6720.41,Closed,44
+UKC-1398,2025-01-14,Bristol,Liability,11387.63,Closed,1
+UKC-1399,2025-02-23,Liverpool,Motor,11440.87,Open,5
+UKC-1400,2025-01-26,Leeds,Liability,1995.3,Under Investigation,4
+UKC-1401,2025-03-01,Glasgow,Travel,13587.02,Open,54
+UKC-1402,2025-04-11,Manchester,Health,7826.16,Open,49
+UKC-1403,2025-01-07,Glasgow,Travel,12483.63,Under Investigation,44
+UKC-1404,2025-02-10,Liverpool,Property,5140.72,Open,53
+UKC-1405,2025-03-14,Liverpool,Motor,13485.09,Pending,33
+UKC-1406,2025-04-05,Manchester,Motor,6143.42,Closed,51
+UKC-1407,2025-02-26,Manchester,Property,657.15,Pending,31
+UKC-1408,2025-02-13,Edinburgh,Health,13628.04,Closed,52
+UKC-1409,2025-03-30,Leeds,Travel,1823.66,Closed,2
+UKC-1410,2025-03-05,Edinburgh,Travel,5130.05,Under Investigation,1
+UKC-1411,2025-01-26,Manchester,Liability,14275.9,Open,19
+UKC-1412,2025-01-25,Edinburgh,Health,14283.8,Under Investigation,15
+UKC-1413,2025-04-09,London,Property,8814.85,Under Investigation,25
+UKC-1414,2025-02-02,London,Health,9661.64,Under Investigation,41
+UKC-1415,2025-02-07,London,Motor,7002.46,Open,20
+UKC-1416,2025-03-04,Birmingham,Liability,4751.56,Under Investigation,7
+UKC-1417,2025-04-10,Leeds,Liability,5265.64,Under Investigation,19
+UKC-1418,2025-02-09,Liverpool,Motor,10251.52,Open,39
+UKC-1419,2025-01-13,Manchester,Motor,11409.43,Open,14
+UKC-1420,2025-01-15,Glasgow,Motor,11977.9,Under Investigation,53
+UKC-1421,2025-03-03,Bristol,Travel,11949.46,Under Investigation,26
+UKC-1422,2025-03-05,London,Property,1822.49,Closed,12
+UKC-1423,2025-01-19,Glasgow,Travel,7669.09,Pending,30
+UKC-1424,2025-02-26,Manchester,Liability,1334.6,Open,16
+UKC-1425,2025-04-10,Birmingham,Travel,8468.17,Under Investigation,47
+UKC-1426,2025-02-15,Glasgow,Property,6902.19,Open,44
+UKC-1427,2025-03-09,Leeds,Travel,13371.71,Open,17
+UKC-1428,2025-02-18,Bristol,Liability,5588.27,Closed,60
+UKC-1429,2025-02-24,London,Motor,2197.47,Under Investigation,39
+UKC-1430,2025-01-10,Manchester,Travel,2573.38,Under Investigation,39
+UKC-1431,2025-01-30,Birmingham,Liability,11541.9,Under Investigation,12
+UKC-1432,2025-04-07,Manchester,Motor,9464.16,Open,40
+UKC-1433,2025-01-13,Bristol,Health,1966.28,Pending,34
+UKC-1434,2025-03-28,Birmingham,Health,1719.55,Under Investigation,13
+UKC-1435,2025-03-27,London,Liability,10664.05,Under Investigation,48
+UKC-1436,2025-04-02,Leeds,Property,1555.06,Under Investigation,13
+UKC-1437,2025-04-05,Liverpool,Travel,12416.97,Open,15
+UKC-1438,2025-01-27,London,Health,10740.51,Pending,10
+UKC-1439,2025-04-04,Birmingham,Health,1679.56,Open,46
+UKC-1440,2025-02-21,Glasgow,Travel,1730.15,Closed,19
+UKC-1441,2025-01-17,Birmingham,Property,14806.27,Open,38
+UKC-1442,2025-04-04,Liverpool,Motor,5926.93,Pending,56
+UKC-1443,2025-01-23,Birmingham,Property,5874.31,Under Investigation,25
+UKC-1444,2025-03-23,Liverpool,Property,12285.59,Pending,41
+UKC-1445,2025-01-02,Edinburgh,Property,14235.1,Under Investigation,51
+UKC-1446,2025-01-11,London,Health,14797.02,Under Investigation,17
+UKC-1447,2025-01-13,Birmingham,Liability,11423.98,Pending,28
+UKC-1448,2025-02-25,Leeds,Motor,5955.76,Under Investigation,52
+UKC-1449,2025-03-04,Edinburgh,Travel,1710.76,Under Investigation,59
+UKC-1450,2025-04-05,Leeds,Liability,11768.63,Pending,47
+UKC-1451,2025-02-27,Leeds,Motor,8596.86,Open,33
+UKC-1452,2025-02-21,Glasgow,Property,6651.22,Under Investigation,37
+UKC-1453,2025-02-07,Birmingham,Liability,13642.14,Open,31
+UKC-1454,2025-02-11,Manchester,Travel,2112.36,Under Investigation,49
+UKC-1455,2025-02-28,London,Health,7643.06,Closed,34
+UKC-1456,2025-01-27,Edinburgh,Motor,664.63,Under Investigation,31
+UKC-1457,2025-01-10,Birmingham,Property,7295.58,Under Investigation,16
+UKC-1458,2025-03-02,Birmingham,Property,1316.4,Under Investigation,37
+UKC-1459,2025-04-09,Birmingham,Property,2222.86,Pending,22
+UKC-1460,2025-04-09,Liverpool,Motor,2204.13,Under Investigation,59
+UKC-1461,2025-01-22,Liverpool,Liability,9913.55,Under Investigation,32
+UKC-1462,2025-02-01,Manchester,Motor,11317.65,Under Investigation,42
+UKC-1463,2025-04-08,Leeds,Travel,8958.85,Closed,26
+UKC-1464,2025-01-25,Birmingham,Travel,14451.5,Pending,36
+UKC-1465,2025-02-22,Leeds,Property,5935.62,Closed,29
+UKC-1466,2025-02-12,London,Travel,4642.83,Closed,52
+UKC-1467,2025-02-22,Leeds,Property,13094.69,Closed,30
+UKC-1468,2025-02-15,Glasgow,Property,3742.14,Under Investigation,32
+UKC-1469,2025-01-07,Glasgow,Travel,14466.73,Pending,43
+UKC-1470,2025-03-17,Bristol,Health,676.24,Pending,31
+UKC-1471,2025-03-12,Birmingham,Travel,14563.24,Open,30
+UKC-1472,2025-02-16,Bristol,Travel,1125.82,Closed,36
+UKC-1473,2025-01-28,Bristol,Motor,13421.58,Under Investigation,58
+UKC-1474,2025-01-12,Bristol,Motor,8151.67,Under Investigation,27
+UKC-1475,2025-02-07,Manchester,Liability,14897.99,Under Investigation,13
+UKC-1476,2025-01-25,Glasgow,Travel,1570.05,Pending,40
+UKC-1477,2025-02-22,Manchester,Liability,8530.89,Open,25
+UKC-1478,2025-04-09,Edinburgh,Property,14554.89,Open,2
+UKC-1479,2025-04-07,London,Travel,8084.92,Under Investigation,53
+UKC-1480,2025-01-26,Glasgow,Liability,9626.28,Open,40
+UKC-1481,2025-02-18,Bristol,Health,10588.36,Pending,40
+UKC-1482,2025-01-30,Birmingham,Property,7090.85,Open,1
+UKC-1483,2025-02-27,London,Liability,9599.59,Under Investigation,8
+UKC-1484,2025-04-09,Liverpool,Health,8972.56,Pending,41
+UKC-1485,2025-03-01,Edinburgh,Motor,13566.79,Closed,33
+UKC-1486,2025-01-12,Birmingham,Travel,1158.97,Closed,45
+UKC-1487,2025-01-31,Manchester,Motor,4573.97,Closed,35
+UKC-1488,2025-03-28,Glasgow,Travel,14280.97,Pending,53
+UKC-1489,2025-01-26,Liverpool,Health,13408.82,Pending,14
+UKC-1490,2025-02-22,Leeds,Motor,7107.02,Open,15
+UKC-1491,2025-03-27,Birmingham,Liability,9491.92,Open,22
+UKC-1492,2025-03-24,Birmingham,Liability,4522.03,Under Investigation,52
+UKC-1493,2025-03-16,Edinburgh,Health,3227.76,Open,45
+UKC-1494,2025-02-23,Bristol,Travel,7223.63,Pending,23
+UKC-1495,2025-03-02,London,Property,5623.61,Open,19
+UKC-1496,2025-02-02,Birmingham,Motor,8963.01,Under Investigation,18
+UKC-1497,2025-02-22,Glasgow,Travel,1627.15,Under Investigation,41
+UKC-1498,2025-01-12,Leeds,Health,14628.72,Closed,39
+UKC-1499,2025-01-24,Manchester,Property,14800.06,Open,32
